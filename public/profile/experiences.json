@@ -1,33 +1,55 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Junior Front-end Developer",
+            "subtitle": "Uran",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Worked with a variety of languages such as HTML, JavaScript and CSS to create userfriendly web pages and responsive interfaces.",
+                "Worked with CSS preprocessors like Less, SCSS, and frameworks such as Tailwind for streamlined styling workflows."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "05/2014 – 06/2015"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Back-end Developer",
+            "subtitle": "Intellias",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "As a backend developer, I had a chance to grow my skills at this company. I have built many projects with Node.js, Express.js, and Python.",
+                "Implemented continuous integration and deployment (CI/CD) pipelines using GitLab, Docker, and AWS services, enabling seamless deployment of applications to production environments."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "07/2015 – 04/2016"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Android Developer",
+            "subtitle": "Gecko Dynamics",
+            "workType": "Full-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Developed an Android SDK that could be embedded in any 3rd-party application.",
+                "Furthermore, my proficiency in React Native and Android development has enabled me to extend my expertise to mobile app development, allowing me to create crossplatform applications that offer a consistent user experience across different devices."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "05/2016 – 05/2018"
+        }
+        ,
+        {
+            "title": "Full Stack Developer",
+            "subtitle": "NaNLABS",
+            "workType": "Full-time",
+            "workDescription": [
+                "Implemented a site-wide redesign and front-end overhaul targeting both desktop and mobile devices. Incorporated responsive image best practices to maximize performance and page speed ranking for SEO.",
+                "Designed and developed a microservice for subscription and monetization of the platform using Node.js and NestJS. Separated and refactored the microservice from the main monolith architecture of the app."
+            ],
+            "dateText": "05/2018 – 02/2020"
+        },
+        {
+            "title": "Senior Full Stack Developer",
+            "subtitle": "Blacksmith",
+            "workType": "Full-time",
+            "workDescription": [
+                "I have implemented responsive design, front-end optimization, and the implementation of visually appealing designs using Tailwind CSS, MaterialUI, and SCSS.",
+                "I have developed RESTful APIs, integrating databases, and implementing authentication and authorization mechanisms to ensure secure data transactions."
+            ],
+            "dateText": "08/2020 – 01/2024"
         }
     ]
 }

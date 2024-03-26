@@ -18,12 +18,20 @@
                     "title": "JavaScript"
                 },
                 {
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
+                },
+                {
                     "icon": "images/skills/python.png",
                     "title": "Python"
                 },
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDB"
                 }
         ]},
         {
@@ -36,6 +44,14 @@
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
+                },
+                {
+                    "icon": "images/skills/next.png",
+                    "title": "Next.js"
+                },
+                {
+                    "icon": "images/skills/vue.png",
+                    "title": "Vue"
                 },
                 {
                     "icon": "images/skills/nodejs.png",
