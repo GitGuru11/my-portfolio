@@ -6,6 +6,7 @@ import styled, { ThemeContext } from 'styled-components';
 import endpoints from '../constants/endpoints';
 import ThemeToggler from './ThemeToggler';
 
+let a;
 const styles = {
   logoStyle: {
     width: 50,
